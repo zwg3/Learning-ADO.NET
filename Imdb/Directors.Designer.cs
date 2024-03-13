@@ -134,7 +134,6 @@
             this.Controls.Add(this.dirBtnRefresh);
             this.Controls.Add(this.dgvDirectors);
             this.Name = "Directors";
-            this.Text = "Directors";
             ((System.ComponentModel.ISupportInitialize)(this.dgvDirectors)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDirectorsMovies)).EndInit();
             this.ResumeLayout(false);
